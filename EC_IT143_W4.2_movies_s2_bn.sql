@@ -1,0 +1,3 @@
+-- Q: Which movie genres have the highest average user ratings?
+-- A: I am joining movies_metadata with ratings. 
+-- Next, I need to cast the rating as a decimal to calculate the average.

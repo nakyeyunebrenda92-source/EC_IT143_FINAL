@@ -1,0 +1,1 @@
+-- Q: Which movie genres have the highest average user ratings?

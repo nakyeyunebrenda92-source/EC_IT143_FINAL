@@ -1,0 +1,2 @@
+-- Q: How many players are on each team?
+-- A: I will use the COUNT function on the Teams table and group by the team name.

@@ -1,0 +1,2 @@
+-- Q: What is the classic first message in programming?
+-- A: I will select the text 'Hello World' as a starting point.

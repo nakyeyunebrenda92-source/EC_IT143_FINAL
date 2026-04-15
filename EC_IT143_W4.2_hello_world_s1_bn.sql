@@ -1,0 +1,1 @@
+-- Q: What is the classic first message in programming?
