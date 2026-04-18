@@ -1,0 +1,2 @@
+-- A: I will use the LEFT and CHARINDEX functions to find the space 
+-- in the ContactName and take everything before it.

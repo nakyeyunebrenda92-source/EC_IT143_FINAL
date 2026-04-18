@@ -1,0 +1,4 @@
+-- Q: How did I fix the 'Maximum nesting level' error?
+-- A: I added the IF NOT UPDATE(LastModified) check. 
+-- This stops the trigger from firing itself in an infinite loop 
+-- when it updates the same table.

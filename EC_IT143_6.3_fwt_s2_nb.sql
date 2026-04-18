@@ -1,0 +1,1 @@
+-- A: I will add LastModified and ModifiedBy columns and use an AFTER UPDATE trigger.

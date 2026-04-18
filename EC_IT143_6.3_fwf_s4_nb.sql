@@ -1,0 +1,2 @@
+-- I used the following resource to understand string functions:
+-- https://learn.microsoft.com/en-us/sql/t-sql/functions/charindex-transact-sql

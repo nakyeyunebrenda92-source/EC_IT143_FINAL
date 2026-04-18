@@ -1,0 +1,1 @@
+-- Q: How can I ensure the trigger doesn't loop infinitely? A: By using the IF NOT UPDATE check.
